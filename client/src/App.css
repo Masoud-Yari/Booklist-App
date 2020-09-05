@@ -1,0 +1,26 @@
+.App {
+  background-color: #242C4C;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.container {
+  width: 90%;
+  height: 100%;
+  margin: 0 auto;
+  padding: 2em;
+}
+
+.header {
+  color: #fff;
+  font-size: 25px;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.search-wrapper {
+  margin: 4em 0;
+  display: flex;
+  justify-content: space-between;
+}
